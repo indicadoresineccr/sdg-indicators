@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 splash-intro-head: 'Measuring America:'
-splash-intro: 'U.S. Statistics for Sustainable Development'
-splash-subhead: 'Official US Federal Statistics for the UN Sustainable Development Goals'
+splash-intro: 'INEC Indicadores ODS '
+splash-subhead: 'Estadisticas Oficiales de Indicadores Producidos por el INEC'
 splash-start: 'Start Here'
 ---
