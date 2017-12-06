@@ -1,5 +1,5 @@
 ---
-title: U.S. Statistics
+title: Estadisticas INEC
 permalink: /statistics/
 layout: frontpage
 ---
