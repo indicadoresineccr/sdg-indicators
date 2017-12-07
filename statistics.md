@@ -1,5 +1,5 @@
 ---
 title: Estadisticas INEC
-permalink: /statistics/
+permalink: /estadisticas/
 layout: frontpage
 ---
